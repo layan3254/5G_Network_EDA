@@ -3,6 +3,9 @@
 ## 📑 Project Overview
 This project provides a comprehensive data science framework for analyzing 5G network telemetry and predicting connection stability. The primary focus is on uncovering the complex relationships between environmental factors and network performance through advanced Exploratory Data Analysis (EDA) and the creation of a custom "Stress Score" indicator.
 
+The Link:
+https://5gnetworkeda-htkugj9cf5afrxhlhqntrt.streamlit.app/
+
 ### 🔍 1. Exploratory Data Analysis (EDA) - The Core Analysis
 The analysis moved beyond raw metrics to identify the real drivers of 5G instability. Key findings included:
 
